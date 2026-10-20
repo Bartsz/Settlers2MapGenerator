@@ -1,5 +1,7 @@
 # Settlers II Map Generator (Go)
 
+![Screenshot](image.png "Title")
+
 A standalone, local-browser map generator for The Settlers II, with an editable domain model and SWD export. The application is written in Go; it does not require an external `engine.exe`, Python, or a hosted service.
 
 ## Run and build
